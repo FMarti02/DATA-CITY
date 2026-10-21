@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "2e6bac20-0a87-44dd-b1bf-353317dfe7f1",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1792623492509"
+        }
+      },
+      "favorite": {
+        "name": "DATA CITY"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
